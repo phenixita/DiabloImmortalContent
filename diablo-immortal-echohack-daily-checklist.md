@@ -2,6 +2,8 @@
 
 Simple table format checklist to print based on [Echohack Diablo Immortal Checklist video](https://www.youtube.com/watch?v=7sN_DMqHf-I).
 
+Download a PDF version [here](diablo-immortal-daily-checklist.pdf).
+
 | Activity     | Done      |
 |--------------|-----------|
 |First Kill of the Day|  |
